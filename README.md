@@ -7,4 +7,4 @@ A PocketMine-MP plugin (unfinished) for API 3.0.0-ALPHA3
 HEY GUYs!!!!
 
 
-Don't download it's not working - Captain Ralph
+This is beta, it might not work - Captain Ralph

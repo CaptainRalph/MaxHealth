@@ -1,10 +1,10 @@
 # MaxHealth
 A PocketMine-MP plugin (unfinished) for API 3.0.0-ALPHA3
 
-========Instalation========
 
 
-HEY GUYs!!!!
+==============Beta==============
 
+https://github.com/CaptainRalph/MaxHealth/tree/Beta
 
-Don't download it's not working - Captain Ralph
+(Unfinished) please help me making this plugin

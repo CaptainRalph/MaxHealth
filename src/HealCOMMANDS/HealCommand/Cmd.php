@@ -7,7 +7,7 @@ use pocketmine\command\CommandSender;
 use pocketmine\utils\TextFormat as Color;
 use pocketmine\Player;
 
-class HealCmd extends PluginBase{
+class Cmd extends PluginBase{
      public function onEnable(){
           $this->getLogger()->info("Heal Max plugin enabled");
      }
